@@ -4,6 +4,7 @@ Following 3 approaches were implemented:
 1. Collaborative Filtering 
 2. Content-based Filtering
 3. Demographic Filtering 
+
 Link to project slides: https://docs.google.com/presentation/d/1JMgPYrfVcx3tGB2mms-p23BoMPcs_avhlC7gm8yfydU/edit?usp=sharing 
 
 Group Members: 
